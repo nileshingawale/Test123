@@ -8,6 +8,10 @@ public class TestCase2
 	@Test
 	public void testcase2()
 	{
+
 		System.out.println("In test Case4");
+
+		System.out.println("In test Case7");
+
 	}
 }
